@@ -1,15 +1,15 @@
 {
-  "name": "Click n' Tweet",
+  "name": "Click n' Tweet 2",
   "version": "1.2",
   "description": "Tweet current site or anything you want in 1 click",
   "manifest_version": 2,
   "permissions": [ "tabs" ],
   "browser_action": {
-    "default_icon": "icon16.png",
-    "default_popup": "clickntweet.html",
+    "default_icon": "src/images/icon16.png",
+    "default_popup": "src/clickntweet.html",
     "default_title": "Tweet!"
   },
   "icons":{
-    "128": "icon128.png"
+    "128": "src/images/icon128.png"
   }
 }
