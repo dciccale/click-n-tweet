@@ -5,11 +5,13 @@
   "manifest_version": 2,
   "permissions": [ "tabs" ],
   "browser_action": {
-    "default_icon": "src/images/icon16.png",
+    "default_icon": "src/images/icon48.png",
     "default_popup": "src/clickntweet.html",
     "default_title": "Tweet!"
   },
   "icons":{
+    "16": "src/images/icon16.png",
+    "48": "src/images/icon48.png",
     "128": "src/images/icon128.png"
   }
 }
