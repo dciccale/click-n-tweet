@@ -1,17 +1,19 @@
 {
   "name": "Click n' Tweet",
-  "version": "1.3",
-  "description": "Tweet current site or anything you want in 1 click",
+  "version": "1.4.3",
+  "description": "Tweet in one click within Chrome",
   "manifest_version": 2,
-  "permissions": [ "tabs" ],
+  "permissions": ["tabs"],
   "browser_action": {
-    "default_icon": "src/images/icon48.png",
-    "default_popup": "src/clickntweet.html",
+    "default_icon": "src/img/icon48.png",
     "default_title": "Tweet!"
   },
+  "background": {
+    "scripts": ["src/clickntweet.js"]
+  },
   "icons":{
-    "16": "src/images/icon16.png",
-    "48": "src/images/icon48.png",
-    "128": "src/images/icon128.png"
+    "16": "src/img/icon16.png",
+    "48": "src/img/icon48.png",
+    "128": "src/img/icon128.png"
   }
 }
