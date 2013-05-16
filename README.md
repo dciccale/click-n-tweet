@@ -8,7 +8,7 @@ If you want to tweet the current page you are on, just click to tweet its url an
 
 ## Screenshot
 
-![Screenshot of Click n' Tweet Chrome Extension](https://raw.github.com/dciccale/click-n-tweet/master/src/images/screenshot1.jpg)
+![Screenshot of Click n' Tweet Chrome Extension](https://raw.github.com/dciccale/click-n-tweet/master/screenshot.png)
 
 ## License
 See [LICENSE.txt](https://raw.github.com/dciccale/click-n-tweet/master/LICENSE.txt)
