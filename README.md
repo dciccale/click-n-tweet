@@ -1,14 +1,19 @@
 # Click n' Tweet
 
-Chrome Extension to tweet about the current site or anything you want in 1 click.
+Really simple and fast way of tweeting within Chrome.
 
-If you want to tweet the current page you are on, just click to tweet its url and title, you can modify the text or you can even tweet anything you want!
+- Tweet anything you want.
+- Tweet to share the current page (default).
+
+Features:
+- The tweet window will automatically close after tweeting.
+- No need to add permissions to twitter.
 
 # [+ Add to Chrome](https://chrome.google.com/webstore/detail/click-n-tweet/gdepkkciedfadghaigjanfkcdedenpbh)
 
 ## Screenshot
 
-![Screenshot of Click n' Tweet Chrome Extension](https://raw.github.com/dciccale/click-n-tweet/master/src/images/screenshot1.jpg)
+![Screenshot of Click n' Tweet Chrome Extension](https://raw.github.com/dciccale/click-n-tweet/master/screenshot.png)
 
 ## License
 See [LICENSE.txt](https://raw.github.com/dciccale/click-n-tweet/master/LICENSE.txt)
